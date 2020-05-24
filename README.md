@@ -1,5 +1,5 @@
 # Retail Customer Analysis
-This report is an analysis of the [Online Retail II Dataset found on the University of California Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II) in order analyze the current state of the business, how we are retaining our customers and clustering our customers into High-Value, Mid-Value, and Low-Value categories in order to improve marketing efforts. <br>
+This report is an analysis of the [Online Retail II Dataset found on the University of California Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II) in order analyze the current state of the business, how they are retaining their customers and clustering our customers into High-Value, Mid-Value, and Low-Value categories in order to improve marketing efforts. <br>
 
 A **classification model**  was created to predict in the future if a customer will be High-Value, Mid-Value, or Low-Value. 
 
@@ -19,11 +19,11 @@ The dataset consists of transactional data with customers in 41 different countr
 ## Results
 
 ### Cohort Retention Rate 
-A cohort retention heatmap was derived to find how the online retailer is retaining their customers. In the following heatmap each month is considered a cohort.
+A cohort retention heatmap was derived to find how the Online Retailer is retaining their customers. In the following heatmap each month is considered a cohort.
 ![Cohort Retention Rate](images/cohort_retention_rate.PNG)
 
 ### Recency-Frequency-Monetary (RFM) Analysis
-An RFM analysis was done in order to better understand and score our customers into High-Value, Mid-Value, and Low-Value customers. 
+An RFM analysis was done in order to better understand and score the customers into High-Value, Mid-Value, and Low-Value customers. 
 K-Mean clustering was used in identifying the customer clusters.
 #### Frequency vs. Revenue
 ![Frequency vs. Revenue](images/rfm_frequency_revenue.PNG)
