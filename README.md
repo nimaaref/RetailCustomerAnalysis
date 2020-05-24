@@ -49,6 +49,11 @@ In conclusion we've identified the following:
 - We have created a Random Forrest Classifier with a high accuracy, precision, and recall in order to predict future customer segment. It is important to investigate further why the accuracy is so high in this model. Currently, I believe it is due to the imbalance of the customer clusters. 
 - Currently, our findings do not show a high enough percentage of users that do purchase our products extracted from our features in our model. That would mean that we fail to reject our null hypothesis.  
 
+## Google Colab 
+
+View the following [link](https://colab.research.google.com/github/nimaaref/RetailCustomerAnalysis/blob/master/OnlineRetailAnalysis_Nima-Aref.ipynb) to collaborate! 
+
+
 ## License 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
