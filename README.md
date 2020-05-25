@@ -1,5 +1,5 @@
 # Retail Customer Analysis
-This report is an analysis of the [Online Retail II Dataset found on the University of California Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II) in order analyze the current state of the business, how they are retaining their customers and clustering them into High-Value, Mid-Value, and Low-Value categories in order to improve marketing efforts. <br>
+This report is an analysis of the [Online Retail II Dataset found on the University of California Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II) in to order analyze the current state of the business, how they are retaining their customers and clustering them into High-Value, Mid-Value, and Low-Value segments in order to improve marketing efforts. <br>
 
 A **classification model** was created to predict in the future if a customer will be High-Value, Mid-Value, or Low-Value. 
 
